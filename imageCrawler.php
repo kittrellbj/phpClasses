@@ -2,7 +2,7 @@
 /* 
    Get all x,y coords of specified rgb color in an image and return an array.
    The default provided implementation is to find all pixels of pure white (255,255,255) color.
-   
+    
    4 arguments required for the function: path/to/image, and red, green, blue values
    of target pixel to search for. Function assumes $pic
    to be a .jpg type image. You will have to change the
